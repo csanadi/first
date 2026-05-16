@@ -1,6 +1,6 @@
 services:
   app:
     build:
-      context: https://github.com/csanadi/first.git
+      context: .
     stdin_open: true
     tty: true
